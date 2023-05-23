@@ -1,0 +1,28 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0,8px;
+    color:rgb(59, 59, 59)
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    background-color: rgb(231, 233, 228);
+}
+a:visited {
+    color:rgb(77, 14, 137);
+}
+body {
+    max-width:90%;
+    margin:0 auto;
+    background-color: rgb(234, 141, 141);
+}
+.quote {
+    max-width:50%;
+    margin:80 auto;
+    font-size: 160%;
+    background-color: rgb(246, 246, 246);
+    border-left: 3px solid black;
+    padding-left:30px;
+    
+}
